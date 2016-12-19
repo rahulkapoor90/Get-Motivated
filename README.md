@@ -1,6 +1,7 @@
 # Get-Motivated
+[![Code Climate](https://codeclimate.com/github/rahulkapoor90/Get-Motivated/badges/gpa.svg)](https://codeclimate.com/github/rahulkapoor90/VITacademics-Enhancement-Suite)
+
 "Get Motivated" is a small lightweight extension that motivated you everyday.
-[![Code Climate](https://codeclimate.com/github/rahulkapoor90/VITacademics-Enhancement-Suite/badges/gpa.svg)](https://codeclimate.com/github/rahulkapoor90/VITacademics-Enhancement-Suite)
 
 ![](https://i.imgur.com/7kB7r9F.png)
 
