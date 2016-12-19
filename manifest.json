@@ -1,0 +1,28 @@
+{
+   "author": "Rahul Kapoor",
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "38": "images/icon48.png"
+      },
+      "default_title": "Open Get Motivated"
+   },
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   },
+   "description": "Let me motivate you everyday. I won't annoy you, I promise.",
+   "homepage_url": "https://github.com/rahulkapoor90",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png"
+   },
+   "manifest_version": 2,
+   "name": "Get Motivated",
+   "offline_enabled": true,
+   "permissions": [ "storage" ],
+   "version": "0.1"
+}

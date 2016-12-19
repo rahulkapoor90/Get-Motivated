@@ -1,0 +1,25 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 13px;
+}
+
+.h1 {
+  font-size: 40px;
+  font-weight: 800;
+  color: #064961;
+}
+
+.water {
+  padding-left: 40px;
+}
+
+.footer {
+  font-weight: 400;
+  color: #787878;
+}
+
+.footer a,:visited {
+  color: #787878;
+  text-decoration: none;
+  font-weight: 600;
+}
