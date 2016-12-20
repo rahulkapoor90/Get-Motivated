@@ -43,7 +43,7 @@ var nicePhrases = [
   "If it's not impossible, there must be a way to do it.",
   "Forgive others not because they deserve forgiveness but because you deserve peace.",
   "Do not believe the things you tell yourself when you are sad and lonely.",
-  "Be willing to walk alone. Many who started with you won't finish with you.",
+  "Be willing to walk alone. Many who started with you won't finish with you."
 ];
 
 // Get random phrase

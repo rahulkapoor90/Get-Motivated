@@ -24,5 +24,5 @@
    "name": "Get Motivated",
    "offline_enabled": true,
    "permissions": [ "storage" ],
-   "version": "0.1"
+   "version": "0.3"
 }
